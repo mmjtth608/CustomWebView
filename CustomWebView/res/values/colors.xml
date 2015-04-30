@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="blue">#34b1e7</color>
+	<drawable name="transparent_background">#00000000</drawable>
+	
+</resources>
